@@ -1,7 +1,7 @@
 footer {
-  position: fixed;
+  position: sticky;
   /* position: sticky; */
-  bottom: 0px;
+  bottom: -15px;
   width: 100%;
   background-color: #02262f;
 }
